@@ -60,7 +60,7 @@ python infer.py --nuscenes --data_root data --output output.jpg --simulate
 python infer.py --nuscenes --data_root data --sample_idx 10 --output output.jpg --simulate
 ```
 
-注意：首次运行时，脚本会自动从 ModelScope 或 Hugging Face 下载 Qwen2.5-VL-7B 模型，这可能需要一些时间，取决于您的网络速度。如果不想下载大模型，可以使用 `--simulate` 参数启用模拟模式。
+注意：首次运行时，脚本会自动从 ModelScope 或 Hugging Face 下载 Qwen2.5-VL-7B 模型。如果不想下载大模型，可以使用 `--simulate` 参数启用模拟模式。
 
 ## 功能
 
@@ -78,7 +78,7 @@ python infer.py --nuscenes --data_root data --sample_idx 10 --output output.jpg 
 
 ## 自定义模型
 
-如果您想使用其他模型，可以通过 `--model` 参数指定：
+使用其他模型，可以通过 `--model` 参数指定：
 
 ```bash
 python infer.py --image test_images/your_image.jpg --model llava --output output.jpg
@@ -86,15 +86,3 @@ python infer.py --image test_images/your_image.jpg --model llava --output output
 
 目前支持的模型类型：
 - qwen (默认): Qwen2.5-VL-7B 模型
-- llava: 需要自行实现
-- llama: 需要自行实现
-
-## 模拟模式
-
-如果您不想下载大型模型或遇到网络问题，可以使用模拟模式：
-
-```bash
-python infer.py --image test_images/your_image.jpg --output output.jpg --simulate
-```
-
-模拟模式会使用预定义的场景描述和运动预测，而不需要加载大型模型。
