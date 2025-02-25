@@ -170,9 +170,11 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+.DS_Store
 
 # PyTorch
 *.pth
 *.pkl
 checkpoint/
 logs/
+data/
