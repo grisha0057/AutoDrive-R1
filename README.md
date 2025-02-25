@@ -2,7 +2,6 @@
 
 ## 环境设置
 
-使用 Conda 创建虚拟环境并安装依赖：
 
 ```bash
 conda create -n autodrive python=3.10 -y
@@ -77,4 +76,4 @@ python infer.py --image test_images/your_image.jpg --model llava --output output
 ```
 
 目前支持的模型类型：
-- qwen (默认): Qwen2.5-VL-7B 模型
+- qwen (默认): Qwen2.5-VL-3B-Instruct 模型

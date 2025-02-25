@@ -12,15 +12,18 @@ from pathlib import Path
 
 # 加载Qwen2.5-VL-7B模型
 def load_qwen_model():
-    """加载Qwen2.5-VL-7B模型"""
-    print("正在加载Qwen2.5-VL-7B模型...")
+    """加载Qwen2.5-VL-3B模型"""
+    print("正在加载Qwen2.5-VL-3B模型...")
     
     # 直接从Hugging Face下载模型
-    model_dir = "Qwen/Qwen2.5-VL-7B"
+    model_dir = "Qwen/Qwen2.5-VL-3B-Instruct"
     
     try:
+        # 使用AutoModelForVision2Seq而不是AutoModelForCausalLM
+        from transformers import AutoModelForVision2Seq
+        
         tokenizer = AutoTokenizer.from_pretrained(model_dir, trust_remote_code=True)
-        model = AutoModelForCausalLM.from_pretrained(
+        model = AutoModelForVision2Seq.from_pretrained(
             model_dir, 
             device_map="auto",
             trust_remote_code=True
@@ -195,12 +198,30 @@ def main():
     parser = argparse.ArgumentParser(description="简化版自动驾驶测试脚本")
     parser.add_argument("--image", type=str, help="输入图像路径")
     parser.add_argument("--model", type=str, default="qwen", help="使用的模型类型: qwen, llava, llama")
-    parser.add_argument("--output", type=str, default="output.jpg", help="输出图像路径")
+    parser.add_argument("--output", type=str, default="outputs/output.jpg", help="输出图像路径")
     parser.add_argument("--simulate", action="store_true", help="使用模拟模式，不加载大型模型")
     parser.add_argument("--nuscenes", action="store_true", help="使用nuScenes数据集")
     parser.add_argument("--data_root", type=str, default="data", help="nuScenes数据集根目录")
     parser.add_argument("--sample_idx", type=int, help="nuScenes样本索引")
     args = parser.parse_args()
+    
+    # 确保输出目录存在
+    output_dir = os.path.dirname(args.output)
+    if output_dir and not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
+        print(f"创建输出目录: {output_dir}")
+    
+    # 如果没有指定输出文件名，添加时间戳
+    if args.output == "outputs/output.jpg":
+        from datetime import datetime
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        if args.nuscenes:
+            sample_info = f"_sample{args.sample_idx}" if args.sample_idx is not None else ""
+            args.output = f"outputs/nuscenes{sample_info}_{timestamp}.jpg"
+        else:
+            image_name = os.path.basename(args.image).split('.')[0] if args.image else "unknown"
+            args.output = f"outputs/{image_name}_{timestamp}.jpg"
+        print(f"输出文件: {args.output}")
     
     # 确定输入图像路径
     image_path = args.image

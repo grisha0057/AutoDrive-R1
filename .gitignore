@@ -178,3 +178,7 @@ cython_debug/
 checkpoint/
 logs/
 data/
+outputs/
+
+# cursorignore
+.cursorignore
