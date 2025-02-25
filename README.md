@@ -5,16 +5,12 @@
 使用 Conda 创建虚拟环境并安装依赖：
 
 ```bash
-# 创建 conda 环境
 conda create -n autodrive python=3.10 -y
 
-# 激活环境
 conda activate autodrive
 
-# 安装依赖
 pip install -r requirements.txt
 
-# 安装nuScenes开发工具包（如果需要使用nuScenes数据集）
 pip install nuscenes-devkit
 ```
 
@@ -26,10 +22,8 @@ pip install nuscenes-devkit
 2. 运行推理脚本：
 
 ```bash
-# 激活环境（如果尚未激活）
 conda activate autodrive
 
-# 运行脚本
 python infer.py --image test_images/your_image.jpg --output output.jpg
 ```
 
@@ -38,14 +32,12 @@ python infer.py --image test_images/your_image.jpg --output output.jpg
 1. 下载并解压nuScenes mini数据集（约4GB）：
 
 ```bash
-# 创建数据目录
 mkdir -p data
 
 # 下载数据集（可能需要一些时间）
 cd data
 curl -L -o v1.0-mini.tgz https://www.nuscenes.org/data/v1.0-mini.tgz
 
-# 解压数据集
 tar -xzf v1.0-mini.tgz
 cd ..
 ```
