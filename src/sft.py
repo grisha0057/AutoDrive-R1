@@ -199,10 +199,25 @@ if training_success:
     final_model_dir = os.path.join("output", "final_model", run_name)
     trainer.save_model(final_model_dir)
 
+    # 将配置转换为可JSON序列化的格式
+    def convert_to_serializable(obj):
+        if isinstance(obj, set):
+            return list(obj)
+        elif isinstance(obj, dict):
+            return {k: convert_to_serializable(v) for k, v in obj.items()}
+        elif isinstance(obj, list):
+            return [convert_to_serializable(i) for i in obj]
+        else:
+            return obj
+    
+    # 获取配置并转换
+    lora_dict = convert_to_serializable(lora_config.to_dict())
+    training_dict = convert_to_serializable(training_args.to_dict())
+    
     config = {
         "model_name": model_name,
-        "lora_config": lora_config.to_dict(),
-        "training_args": training_args.to_dict(),
+        "lora_config": lora_dict,
+        "training_args": training_dict,
         "dataset_info": {
             "total_samples": len(dataset),
             "data_path": output_sft_data,
