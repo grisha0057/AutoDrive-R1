@@ -1,0 +1,1012 @@
+{
+  "base_scores": [
+    0.04764849692583084,
+    0.07722818106412888,
+    0.31329643726348877,
+    0.2816065847873688,
+    0.1359267383813858,
+    0.06035667285323143,
+    0.046244703233242035,
+    0.18036408722400665,
+    0.10235612839460373,
+    0.1552884429693222,
+    0.036392826586961746,
+    0.04489657282829285,
+    0.047345660626888275,
+    0.045472610741853714,
+    0.050380636006593704,
+    0.04083744436502457,
+    0.14906160533428192,
+    0.09449609369039536,
+    0.3319982588291168,
+    0.29509657621383667,
+    0.07925701886415482,
+    0.035756949335336685,
+    0.037331532686948776,
+    0.05247431993484497,
+    0.09469455480575562,
+    0.09979552030563354,
+    0.05241584777832031,
+    0.1586066633462906,
+    0.0740678608417511,
+    0.07182607054710388,
+    0.16272003948688507,
+    0.1306457668542862,
+    0.12200433015823364,
+    0.04334584251046181,
+    0.06381140649318695,
+    0.03944428637623787,
+    0.11733874678611755,
+    0.06704127043485641,
+    0.1460774540901184,
+    0.13068784773349762,
+    0.17702993750572205,
+    0.08454553037881851,
+    0.12909875810146332,
+    0.18538503348827362,
+    0.043202195316553116,
+    0.10637174546718597,
+    0.13508199155330658,
+    0.10914012789726257,
+    0.08286576718091965,
+    0.04145735502243042,
+    0.05205421894788742,
+    0.10637174546718597,
+    0.043100688606500626,
+    0.04221457988023758,
+    0.4416225552558899,
+    0.03551831096410751,
+    0.04165804386138916,
+    0.041958872228860855,
+    0.8489648103713989,
+    0.08049607276916504,
+    0.038424838334321976,
+    0.04577841982245445,
+    0.6210283041000366,
+    0.05543028190732002,
+    0.8707100749015808,
+    0.0923982784152031,
+    0.2273838371038437,
+    0.03529035300016403,
+    0.05073779448866844,
+    0.12415436655282974,
+    0.07448326796293259,
+    0.040191326290369034,
+    0.03720787540078163,
+    0.12507137656211853,
+    0.043980974704027176,
+    0.08300915360450745,
+    0.037283096462488174,
+    0.19926795363426208,
+    0.09670679271221161,
+    0.04663001373410225,
+    0.3393975496292114,
+    0.05724037438631058,
+    0.04345487430691719,
+    0.040354080498218536,
+    0.09653226286172867,
+    0.08063868433237076,
+    0.04782169312238693,
+    0.03567532077431679,
+    0.048922669142484665,
+    0.08858494460582733,
+    0.2286619246006012,
+    0.1339177042245865,
+    0.5120605230331421,
+    0.541612982749939,
+    0.25167781114578247,
+    0.06873443722724915,
+    0.1109047383069992,
+    0.034504521638154984,
+    0.035647712647914886,
+    0.5010462999343872
+  ],
+  "sft_scores": [
+    0.0429421029984951,
+    0.028491057455539703,
+    0.36868003010749817,
+    0.10075031965970993,
+    0.052981507033109665,
+    0.0666058361530304,
+    0.06603265553712845,
+    0.05208678916096687,
+    0.09760081022977829,
+    0.13141396641731262,
+    0.035847850143909454,
+    0.04235463589429855,
+    0.04855291172862053,
+    0.11885913461446762,
+    0.03981233388185501,
+    0.09472240507602692,
+    0.27664849162101746,
+    0.05545344203710556,
+    0.09730737656354904,
+    0.04645952954888344,
+    0.03883037343621254,
+    0.03642060235142708,
+    0.0458657406270504,
+    0.04330174997448921,
+    0.06893419474363327,
+    0.05242568999528885,
+    0.04004088044166565,
+    0.04265068471431732,
+    0.044671427458524704,
+    0.10964678227901459,
+    0.15689291059970856,
+    0.09261839091777802,
+    0.06417877972126007,
+    0.036995526403188705,
+    0.035281628370285034,
+    0.08190573006868362,
+    0.19787006080150604,
+    0.058432891964912415,
+    0.3293249011039734,
+    0.04876884073019028,
+    0.058650773018598557,
+    0.0322430320084095,
+    0.08471077680587769,
+    0.085350401699543,
+    0.043525420129299164,
+    0.15274959802627563,
+    0.05029639974236488,
+    0.03798869997262955,
+    0.07446380704641342,
+    0.24561303853988647,
+    0.06165920943021774,
+    0.15274959802627563,
+    0.04125133901834488,
+    0.04190158098936081,
+    0.04357961565256119,
+    0.03748808056116104,
+    0.041666045784950256,
+    0.09406506270170212,
+    0.04536287486553192,
+    0.24453268945217133,
+    0.07939893752336502,
+    0.042569324374198914,
+    0.668609082698822,
+    0.039848409593105316,
+    0.8983340263366699,
+    0.10135448724031448,
+    0.19171133637428284,
+    0.04732084646821022,
+    0.038486480712890625,
+    0.08262211829423904,
+    0.04643214866518974,
+    0.03848397359251976,
+    0.04986041411757469,
+    0.14349009096622467,
+    0.05344833806157112,
+    0.21597141027450562,
+    0.047627825289964676,
+    0.20368525385856628,
+    0.08874647319316864,
+    0.05710172653198242,
+    0.03823356330394745,
+    0.06492269784212112,
+    0.03666124865412712,
+    0.05721975117921829,
+    0.16077758371829987,
+    0.13995079696178436,
+    0.07244443148374557,
+    0.04464803263545036,
+    0.03572111949324608,
+    0.05330831930041313,
+    0.05905649811029434,
+    0.2265593260526657,
+    0.5120605230331421,
+    0.03361548110842705,
+    0.25167781114578247,
+    0.038286492228507996,
+    0.19251194596290588,
+    0.034504521638154984,
+    0.033560242503881454,
+    0.040590882301330566
+  ],
+  "base_avg": 0.13386335916817188,
+  "sft_avg": 0.10419922988861799,
+  "improvement": -0.02966412927955389,
+  "num_samples": 100,
+  "samples": [
+    {
+      "question": "What can you observe on the right side of the road?",
+      "reference": "There is a tall residential building, a small park area, and a side road on the right side of the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can you observe on the right side of the road?\nassistant\nOn the right side of the road, there are several trees and greenery. There is also a brick wall or barrier along the sidewalk, and a few people walking or standing near the sidewalk.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can you observe on the right side of the road?\nassistant\nI can observe a red bus on the right side of the road. The bus is on the road, and it is red in color. The bus is moving in the direction of the road, and it is on the right side of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in the direction of the road, and it is not moving in the direction of the road. The bus is not moving in",
+      "base_score": 0.04764849692583084,
+      "sft_score": 0.0429421029984951
+    },
+    {
+      "question": "What type of road are you on?",
+      "reference": "I am on a crossing box junction intersection.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What type of road are you on?\nassistant\nThe road in the image appears to be a city street. The presence of traffic lights, pedestrians, and vehicles suggests it is a busy urban area. The architecture and design of the buildings also indicate a city setting.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What type of road are you on?\nassistant\nI am on a road. I am on a road that is a road. I am on a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a road that is a",
+      "base_score": 0.07722818106412888,
+      "sft_score": 0.028491057455539703
+    },
+    {
+      "question": "Is there any other traffic or pedestrians on the road with you?",
+      "reference": "No, the road is clear of other traffic and pedestrians.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any other traffic or pedestrians on the road with you?\nassistant\nBased on the image, there is no other traffic or pedestrians visible on the road with the person taking the photo. The road appears to be empty, and there are no visible vehicles or people in the immediate vicinity.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any other traffic or pedestrians on the road with you?\nassistant\nThere is no other traffic or pedestrians on the road with the person. The road is empty and there are no other vehicles or pedestrians visible in the image. The person is the only one present on the road.",
+      "base_score": 0.31329643726348877,
+      "sft_score": 0.36868003010749817
+    },
+    {
+      "question": "Can you specify the type of vehicle in your lane?",
+      "reference": "The vehicle in my lane is a red double-decker bus that's currently stopped at a bus stop.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you specify the type of vehicle in your lane?\nassistant\nYes, the vehicle in your lane is a red double-decker bus.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you specify the type of vehicle in your lane?\nassistant\nThe vehicle in the lane is a red double-decker bus. The bus is a London bus, which is a type of double-decker bus commonly used in the United Kingdom. The bus is painted red and has a distinctive double-decker design. The bus is currently stopped at a bus stop, and there are people waiting for the bus. The bus is a public transportation vehicle, and it is used to transport passengers in the city. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is a large vehicle, and it is designed to carry a large number of passengers. The bus is a popular mode of transportation in the UK, and it is used by many people to get around the city. The bus is",
+      "base_score": 0.2816065847873688,
+      "sft_score": 0.10075031965970993
+    },
+    {
+      "question": "What obstacles are there when trying to overtake the cyclist?",
+      "reference": "The oncoming traffic in the right lane is the obstacle when trying to overtake the cyclist.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What obstacles are there when trying to overtake the cyclist?\nassistant\nWhen trying to overtake the cyclist, the obstacles in the scene include:\n\n1. **Other vehicles**: There are several cars and a truck parked along the side of the road, which could obstruct the path of the cyclist.\n2. **Sidewalks and pedestrian areas**: The road is bordered by sidewalks and pedestrian areas, which could also pose a challenge for overtaking.\n3. **Traffic lights**: There are traffic lights at the intersection, which could affect the timing and speed of overtaking.\n4. **Street signs and markings**: Street signs and markings on the road could provide guidance or direction for overtaking the cyclist.\n\nThese factors combined make it challenging to overtake the cyclist safely in this scenario.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What obstacles are there when trying to overtake the cyclist?\nassistant\nThere are no obstacles when trying to overtake the cyclist. The cyclist is in the middle of the road, and there are no vehicles or obstacles in the way. The road is clear for the cyclist to move forward.",
+      "base_score": 0.1359267383813858,
+      "sft_score": 0.052981507033109665
+    },
+    {
+      "question": "What types of buildings are on your right and left?",
+      "reference": "On my left, there are 2 story houses, trees, and an apartment building, and on my right there are brick 5-6 story apartment buildings behind trees.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What types of buildings are on your right and left?\nassistant\nOn the right side of the image, there are brick buildings with white trim. On the left side, there are also brick buildings with white trim.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What types of buildings are on your right and left?\nassistant\nOn the right side of the image, there are buildings with brick facades and white windows. On the left side, there are buildings with a mix of brick and stone facades, some with white windows. The buildings on the left side are more modern, while the ones on the right side are older and have a more traditional architectural style. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more residential, while the ones on the right side are more commercial. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more traditional. The buildings on the left side are also more closely packed together, while the ones on the right side are more spread out. The buildings on the left side are also more modern, while the ones on the right side are more",
+      "base_score": 0.06035667285323143,
+      "sft_score": 0.0666058361530304
+    },
+    {
+      "question": "What do you note about the building in front?",
+      "reference": "It is a brick commercial building with red banners.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What do you note about the building in front?\nassistant\nThe building in front appears to be a small, possibly commercial establishment. It has a white facade with a sign that reads \"Pavilion.\" The sign is mounted on a metal frame and is located above the entrance. The building seems to be part of a larger complex, as there are other buildings visible in the background.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What do you note about the building in front?\nassistant\nThe building in front is a white building with a sign that says \"Pavilion\" on it. The sign is mounted on the building's exterior wall. The building appears to be a commercial or office building. The sign is mounted on a pole that is attached to the building's exterior wall. The pole is attached to the building's exterior wall using a bracket. The sign is mounted on the pole using a bracket. The pole is attached to the building's exterior wall using a bracket. The bracket is attached to the pole using a screw. The screw is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver. The screwdriver is attached to the pole using a screwdriver.",
+      "base_score": 0.046244703233242035,
+      "sft_score": 0.06603265553712845
+    },
+    {
+      "question": "What buildings are on your right?",
+      "reference": "There are brick 5-6 story apartment buildings behind the trees.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What buildings are on your right?\nassistant\nThe buildings on the right side of the image are multi-story brick structures. They appear to be residential or mixed-use buildings, possibly part of a neighborhood or urban area.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What buildings are on your right?\nassistant\nThe buildings on the right are brick houses.",
+      "base_score": 0.18036408722400665,
+      "sft_score": 0.05208678916096687
+    },
+    {
+      "question": "Can you describe the oncoming traffic?",
+      "reference": "There is a scooterist in the oncoming direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the oncoming traffic?\nassistant\nThe oncoming traffic consists of a motorcycle and a car. The motorcycle is moving towards the right side of the image, while the car is moving towards the left side.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the oncoming traffic?\nassistant\nThe oncoming traffic consists of a silver car and a red motorcycle. The silver car is driving on the left side of the road, while the red motorcycle is on the right side of the road. The silver car is moving towards the camera, while the red motorcycle is moving away from the camera. The road is a two-lane road with a center line, and there are no visible lane markings. The road is also a one-way road, with the direction of traffic flow indicated by the direction of the oncoming traffic. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera, while the oncoming traffic is moving away from the camera. The oncoming traffic is moving towards the camera,",
+      "base_score": 0.10235612839460373,
+      "sft_score": 0.09760081022977829
+    },
+    {
+      "question": "Can you describe the cycle lane in your current location?",
+      "reference": "There is a bike lane.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the cycle lane in your current location?\nassistant\nThe image shows a street view from inside a vehicle, with a focus on a cycle lane. The cycle lane is visible on the left side of the road, marked by a white line. The lane appears to be separate from the main road, providing a dedicated space for cyclists. The road itself is a two-lane road with a few cars and a van visible on it. The surrounding area includes trees and buildings, indicating a residential or urban setting.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the cycle lane in your current location?\nassistant\nThe image shows a road with several vehicles, including cars and a van, parked along the side of the road. There is a fence on the left side of the road, and a building with a row of windows can be seen in the background. The road appears to be a two-way street with a clear lane for vehicles. The vehicles are parked in a line, and there is no visible traffic on the road at the moment the photo was taken. The road is well-maintained, and the vehicles are parked in a orderly manner. The image does not show any pedestrians or cyclists, and there are no visible traffic lights or signs in the immediate vicinity. The overall scene is calm and quiet, with no immediate signs of movement or activity.",
+      "base_score": 0.1552884429693222,
+      "sft_score": 0.13141396641731262
+    },
+    {
+      "question": "What vehicle are you currently following?",
+      "reference": "I am currently following a silver sedan.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What vehicle are you currently following?\nassistant\nI am currently following a truck.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What vehicle are you currently following?\nassistant\nI am currently following a white truck.",
+      "base_score": 0.036392826586961746,
+      "sft_score": 0.035847850143909454
+    },
+    {
+      "question": "Are there any pedestrians moving in your driving path?",
+      "reference": "No, there are no pedestrians moving in my driving path.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians moving in your driving path?\nassistant\nYes, there are pedestrians moving in the driving path.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians moving in your driving path?\nassistant\nYes, there are pedestrians moving in the driving path. The pedestrians are walking on the sidewalk, and they are moving in the direction of the camera. The pedestrians are not moving in the opposite direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in the direction of the camera, so they are not moving in the opposite direction of the camera. The pedestrians are not moving in",
+      "base_score": 0.04489657282829285,
+      "sft_score": 0.04235463589429855
+    },
+    {
+      "question": "Is it safe to turn left at the intersection in this situation?",
+      "reference": "Yes, it is safe to turn left at the intersection because the traffic light is green.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is it safe to turn left at the intersection in this situation?\nassistant\nBased on the image, it is not safe to turn left at the intersection in this situation. The road is busy with multiple cars, and there are no visible traffic lights or signs indicating a left turn lane. The presence of pedestrians and the cars in the right lane suggests that the intersection is not designed for left turns. It is important to be cautious and follow traffic rules to ensure safety.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is it safe to turn left at the intersection in this situation?\nassistant\nNo, it is not safe to turn left at the intersection. The road is one-way, and the traffic is moving in the opposite direction. Turning left would block the flow of traffic and could cause accidents. It is important to follow traffic rules and wait for the right opportunity to turn left.",
+      "base_score": 0.047345660626888275,
+      "sft_score": 0.04855291172862053
+    },
+    {
+      "question": "Can you move right now?",
+      "reference": "No, I can't because the traffic light is still red. I have to wait for it to turn green.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you move right now?\nassistant\nBased on the image, it appears that you can move right now. The traffic lights are green, and there are no visible obstacles or vehicles in your path.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you move right now?\nassistant\nNo, you cannot move right now. The road is closed for construction, and there is a construction zone ahead. You should wait for the construction to be completed before you can move right.",
+      "base_score": 0.045472610741853714,
+      "sft_score": 0.11885913461446762
+    },
+    {
+      "question": "Are there vehicles parked on the right side of the road?",
+      "reference": "No, there are no vehicles parked on the right side.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there vehicles parked on the right side of the road?\nassistant\nYes, there are vehicles parked on the right side of the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there vehicles parked on the right side of the road?\nassistant\nYes, there are vehicles parked on the right side of the road. The black car is parked on the right side of the road, and there are other vehicles parked on the right side of the road as well. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles, and there are no vehicles parked on the left side of the road. The road is clear of any vehicles",
+      "base_score": 0.050380636006593704,
+      "sft_score": 0.03981233388185501
+    },
+    {
+      "question": "Are there any pedestrians on the road?",
+      "reference": "There is one pedestrian wearing a blue T-shirt on the left sidewalk.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on the road?\nassistant\nYes, there is a pedestrian on the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on the road?\nassistant\nYes, there is a pedestrian on the road. The pedestrian is walking on the sidewalk next to the road.",
+      "base_score": 0.04083744436502457,
+      "sft_score": 0.09472240507602692
+    },
+    {
+      "question": "Can you see any motorcyclists on the road?",
+      "reference": "No, there are no motorcyclists on the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any motorcyclists on the road?\nassistant\nNo, there are no motorcyclists visible in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any motorcyclists on the road?\nassistant\nNo, I do not see any motorcyclists on the road.",
+      "base_score": 0.14906160533428192,
+      "sft_score": 0.27664849162101746
+    },
+    {
+      "question": "What is the layout of the road you are on?",
+      "reference": "The road is laid out with 1 lane in each direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the layout of the road you are on?\nassistant\nThe road you are on appears to be a two-lane road with a central divider. The road is flanked by sidewalks on both sides, and there are trees and buildings on the left side. The layout suggests a typical urban or suburban street with a clear path for vehicles to travel.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the layout of the road you are on?\nassistant\nThe road in the image is a two-lane road with a dashed white line in the center. There are no visible lane markings on the left or right lanes. The road appears to be a residential or light traffic road, with no visible traffic signs or markings. The road is flanked by trees on both sides, and there are buildings and a fence on the right side of the road. The sky is overcast, and there are no visible clouds. The road is not busy, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road, and there are no visible vehicles on the road. The road is not a busy road,",
+      "base_score": 0.09449609369039536,
+      "sft_score": 0.05545344203710556
+    },
+    {
+      "question": "What is the speed limit on this road?",
+      "reference": "The speed limit on this road is 20 mph.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the speed limit on this road?\nassistant\nThe speed limit on this road is 20 miles per hour (mph).",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the speed limit on this road?\nassistant\nThe speed limit on this road is 20 mph. The speed limit sign is a white circle with the number 20 in the center. The road is a two-way street with a sidewalk on the left side and a median in the middle. The median is a solid line with a white line on the inside. There are trees on both sides of the road, and there are parked cars on both sides of the road. The trees are green and there are some green bushes on the side of the road. There is a wooden fence on the left side of the road, and there is a black plastic bag on the sidewalk. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the left side of the road. There is a black car on the right side of the road. There is a black car on the",
+      "base_score": 0.3319982588291168,
+      "sft_score": 0.09730737656354904
+    },
+    {
+      "question": "Are there any cyclists in the oncoming traffic?",
+      "reference": "No, there are no cyclists in the oncoming traffic.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any cyclists in the oncoming traffic?\nassistant\nNo, there are no cyclists in the oncoming traffic.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any cyclists in the oncoming traffic?\nassistant\nNo, there are no cyclists in the oncoming traffic. The oncoming traffic consists of a white van and a red double-decker bus. There are no cyclists visible in the image.",
+      "base_score": 0.29509657621383667,
+      "sft_score": 0.04645952954888344
+    },
+    {
+      "question": "Where is the child located?",
+      "reference": "The child is located on the right sidewalk.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Where is the child located?\nassistant\nThe child is located on the sidewalk, near the parked cars and the street.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Where is the child located?\nassistant\nThe child is located on the sidewalk, not on the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the sidewalk. The road is on the right side of the road. The sidewalk is located on the left side of the road, and the child is walking on the",
+      "base_score": 0.07925701886415482,
+      "sft_score": 0.03883037343621254
+    },
+    {
+      "question": "What traffic signs can you observe?",
+      "reference": "I can observe a traffic sign indicating that trucks weighing 7.5 tons are not allowed.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What traffic signs can you observe?\nassistant\nIn the image, I can observe the following traffic signs:\n\n1. A red circular sign with a white arrow pointing left.\n2. A rectangular sign with a white arrow pointing right.\n3. A rectangular sign with a white arrow pointing left.\n4. A rectangular sign with a white arrow pointing right.\n5. A rectangular sign with a white arrow pointing left.\n6. A rectangular sign with a white arrow pointing right.\n7. A rectangular sign with a white arrow pointing left.\n8. A rectangular sign with a white arrow pointing right.\n9. A rectangular sign with a white arrow pointing left.\n10. A rectangular sign with a white arrow pointing right.\n11. A rectangular sign with a white arrow pointing left.\n12. A rectangular sign with a white arrow pointing right.\n13. A rectangular sign with a white arrow pointing left.\n14. A rectangular sign with a white arrow pointing right.\n15. A rectangular sign with a white arrow pointing left.\n16. A rectangular sign with a white arrow pointing right.\n17. A rectangular sign with a white arrow pointing left.\n18. A rectangular sign with a white arrow pointing right.\n19. A rectangular sign with a white arrow pointing left.\n20. A rectangular sign with a white arrow pointing right.\n21. A rectangular sign with a white arrow pointing left.\n22. A rectangular sign with a white arrow pointing right.\n23. A rectangular sign with a white arrow pointing left.\n24. A rectangular sign with a white arrow pointing right.\n25. A rectangular sign with a white arrow pointing left.\n26. A rectangular sign with a white arrow pointing right.\n27. A rectangular sign with a white arrow pointing left.\n28. A rectangular sign with a white arrow pointing right.\n29. A rectangular sign with a white arrow pointing left.\n30. A rectangular sign with a white arrow pointing right.\n31. A rectangular sign with a white arrow pointing left.\n32. A rectangular sign with a white arrow pointing right.\n33. A rectangular sign with a white arrow pointing left.\n34. A rectangular sign with a white arrow pointing right.\n35. A rectangular sign with a white arrow pointing left.\n36. A rectangular sign with a white arrow pointing right.\n37. A rectangular sign with a white arrow pointing left.\n38. A rectangular sign with a white arrow pointing right.\n39. A rectangular sign with a white arrow pointing left.\n4",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What traffic signs can you observe?\nassistant\nI can see the following traffic signs: a one way sign, a no left turn sign, a no right turn sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no through sign, a no",
+      "base_score": 0.035756949335336685,
+      "sft_score": 0.03642060235142708
+    },
+    {
+      "question": "Can you observe any traffic in the opposite lane?",
+      "reference": "Yes, there is a white van in the opposite lane.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you observe any traffic in the opposite lane?\nassistant\nNo, I cannot observe any traffic in the opposite lane.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you observe any traffic in the opposite lane?\nassistant\nNo, I do not observe any traffic in the opposite lane. The image shows a straight road with no traffic visible in the opposite direction. The road is empty, and there are no vehicles or pedestrians in the image. The road is also not blocked by any vehicles or construction barriers. The image does not show any traffic in the opposite lane.",
+      "base_score": 0.037331532686948776,
+      "sft_score": 0.0458657406270504
+    },
+    {
+      "question": "What kind of lane marks do you see on the road?",
+      "reference": "There is a bus lane on the left and the speed limit is 20 mph.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of lane marks do you see on the road?\nassistant\nThe lane markings on the road are bus lane and bus lane.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of lane marks do you see on the road?\nassistant\nI see bus lane and lane markings on the road. The bus lane is a lane for buses, and the lane markings are the white lines on the road. The lane markings are also known as lane dividers or lane dividers. The lane markings are used to separate lanes of traffic and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used to indicate the direction of traffic flow and to indicate the direction of traffic flow. The lane markings are also used",
+      "base_score": 0.05247431993484497,
+      "sft_score": 0.04330174997448921
+    },
+    {
+      "question": "Can you describe the building on your right?",
+      "reference": "The building on the right is a red brick commercial building.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the building on your right?\nassistant\nThe building on the right appears to be a brick building with a clock tower. The clock tower is a prominent feature, and the building has a classic architectural style. The clock tower is likely a landmark in the area, and it adds to the historical and aesthetic appeal of the cityscape.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the building on your right?\nassistant\nThe building on the right is a brick building with a clock tower. The clock tower is located at the top of the building and has a small dome at the top. The building has a rectangular shape with windows on the sides. The clock tower is a prominent feature of the building and is visible from a distance. The building appears to be a commercial or office building, and the clock tower suggests that it may be a historical or significant building. The clock tower is a common architectural feature in many cities around the world, and it is often used as a landmark or symbol of the building's importance. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common sight in many cities around the world. The clock tower is a classic example of a clock tower, and it is a common",
+      "base_score": 0.09469455480575562,
+      "sft_score": 0.06893419474363327
+    },
+    {
+      "question": "Have you noticed any cyclists or motorcyclists around you?",
+      "reference": "No, I have not noticed any cyclists or motorcyclists around me.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Have you noticed any cyclists or motorcyclists around you?\nassistant\nNo, I have not noticed any cyclists or motorcyclists around me.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Have you noticed any cyclists or motorcyclists around you?\nassistant\nNo, I have not noticed any cyclists or motorcyclists around me. The image shows a street scene with buildings, parked cars, and a few pedestrians. There are no cyclists or motorcyclists visible in the image.",
+      "base_score": 0.09979552030563354,
+      "sft_score": 0.05242568999528885
+    },
+    {
+      "question": "Describe the road you are on?",
+      "reference": "The road I am on is a 4-lane road, with 2 lanes in each direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Describe the road you are on?\nassistant\nThe road in the image appears to be a two-way street with a clear lane for vehicles and a separate lane for pedestrians. The road is marked with white dashed lines, indicating a designated bus lane. The street is lined with buildings on both sides, and there are traffic lights visible at the intersections. The sky is clear with a few clouds, suggesting a sunny day.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Describe the road you are on?\nassistant\nThe road is a two-way street with a clear lane for vehicles and a separate lane for pedestrians. The lane for vehicles is marked with white dashed lines, and the lane for pedestrians is marked with white dashed lines and a pedestrian crossing. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of the road, which is the lane for pedestrians. The road is also marked with a white dashed line on the right side of the road, which is the lane for vehicles. The road is also marked with a white dashed line on the left side of",
+      "base_score": 0.05241584777832031,
+      "sft_score": 0.04004088044166565
+    },
+    {
+      "question": "What markings can you see on the road?",
+      "reference": "I can see a bus stop marked with a red zone on the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What markings can you see on the road?\nassistant\nIn the image, you can see the following markings on the road:\n\n1. White lines indicating the lanes for traffic.\n2. White lines on the sidewalk, possibly indicating pedestrian crossings or bike lanes.\n3. A red line on the road, which could be a no-parking zone or a specific lane for buses or other vehicles.\n\nThese markings help to guide traffic and pedestrians in the area.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What markings can you see on the road?\nassistant\nI can see the following markings on the road: white lines.",
+      "base_score": 0.1586066633462906,
+      "sft_score": 0.04265068471431732
+    },
+    {
+      "question": "Can you describe the building that you observe ahead?",
+      "reference": "There is an old tower building with a round shape and a clock on top ahead of me.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the building that you observe ahead?\nassistant\nThe building that you observe ahead is a tall, historic structure with a clock tower. It appears to be a mix of architectural styles, possibly a mix of Victorian and Gothic Revival. The clock tower is prominently visible, and the building has a grandeur that suggests it might be a significant landmark or a historical building.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the building that you observe ahead?\nassistant\nThe building ahead is a tall, multi-story building with a clock tower on top. The clock tower is made of stone and has a pointed roof. The building has a classic architectural style, with multiple windows and a large frontage. The clock on the tower is visible and appears to be a standard clock face. The building is located in a busy urban area, with other buildings and pedestrians visible in the background. The building's location and architectural style suggest it could be a commercial or office building. The clock tower is a prominent feature of the building, and its presence adds to the building's overall aesthetic. The building's location and architectural style suggest it could be a well-known or historic building in the area. The building's height and the clock tower on top suggest it could be a significant landmark in the area. The building's architectural style and the presence of the clock tower suggest it could be a commercial or office building. The building's location and architectural style suggest it could be a well-known or historic building in the area. The building's height and the clock tower on top suggest it could be a significant landmark in the area. The building's architectural style and the presence of the clock tower suggest it could be a commercial or office building. The building's location and architectural style suggest it could be a well-known or historic building in the area. The building's height and the clock tower on top suggest it could be a significant landmark in the area. The building's architectural style and the presence of the clock tower suggest it could be a commercial or office building. The building's location and architectural style suggest it could be a well-known or historic building in the area. The building's height and the clock tower on top suggest it could be a significant landmark in the area. The building's architectural style and the presence of the clock tower suggest it could be a commercial or office building. The building's location and architectural style suggest it could be a well-known or historic building in the area. The building's height and the clock tower on top suggest it could be a significant landmark in the area. The building's architectural style and the presence of the clock tower suggest it could be a commercial or office building. The building's location and architectural style suggest it could be a well-known or historic building in the area. The building's height and the clock tower on top suggest it could be a significant landmark in the area. The building's architectural style and the presence of the clock tower suggest it could be a commercial or office building. The building's location and architectural",
+      "base_score": 0.0740678608417511,
+      "sft_score": 0.044671427458524704
+    },
+    {
+      "question": "Do you see any buildings ahead of you?",
+      "reference": "Yes, I see buildings ahead.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Do you see any buildings ahead of you?\nassistant\nYes, there are buildings ahead of the vehicle.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Do you see any buildings ahead of you?\nassistant\nYes, I see buildings ahead of me. The buildings are on the left side of the road and are tall and multi-story. They appear to be residential or mixed-use buildings. The buildings are made of brick and have a mix of windows and doors. The street is a two-way road with a sidewalk on the left side and a median in the middle. The median is separated from the road by a concrete barrier. There are also some trees and greenery along the sidewalk and median. The sky is clear with a few clouds, and the road is clean and well-maintained. The buildings are located on the left side of the road, and the road is a two-way road with a median in the middle. The median is separated from the road by a concrete barrier. The buildings are multi-story and made of brick. The street is a two-way road with a sidewalk on the left side and a median in the middle. The median is separated from the road by a concrete barrier. The sky is clear with a few clouds, and the road is clean and well-maintained. The buildings are located on the left side of the road, and the road is a two-way road with a median in the middle. The median is separated from the road by a concrete barrier. The buildings are multi-story and made of brick. The street is a two-way road with a sidewalk on the left side and a median in the middle. The median is separated from the road by a concrete barrier. The sky is clear with a few clouds, and the road is clean and well-maintained. The buildings are located on the left side of the road, and the road is a two-way road with a median in the middle. The median is separated from the road by a concrete barrier. The buildings are multi-story and made of brick. The street is a two-way road with a sidewalk on the left side and a median in the middle. The median is separated from the road by a concrete barrier. The sky is clear with a few clouds, and the road is clean and well-maintained. The buildings are located on the left side of the road, and the road is a two-way road with a median in the middle. The median is separated from the road by a concrete barrier. The buildings are multi-story and made of brick. The street is a two-way road with a sidewalk on the left side and a median in the middle. The median is separated from the road by a concrete barrier. The sky is clear with a",
+      "base_score": 0.07182607054710388,
+      "sft_score": 0.10964678227901459
+    },
+    {
+      "question": "Describe the road you are on?",
+      "reference": "It is a two-lane road going in the same direction, currently, I am travelling in the left lane at a junction, I could either turn right or continue straight.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Describe the road you are on?\nassistant\nThe road in the image is a two-lane street with a bus stop on the left side. The street is lined with trees and residential buildings on both sides. The road is marked with \"BUS STOP\" painted on the asphalt.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Describe the road you are on?\nassistant\nThe road is a two-way street with a bus stop on the left side. The bus stop has a red shelter and a sign with the letter \"F\" on it. The street is lined with trees and buildings on both sides. There are several cars parked along the street, and a few people are walking on the sidewalk. The road is marked with yellow lines and the word \"BUS STOP\" painted on the road. The sky is clear with some clouds. The overall scene is a typical urban street in a residential area.",
+      "base_score": 0.16272003948688507,
+      "sft_score": 0.15689291059970856
+    },
+    {
+      "question": "What type of roads are you driving on?",
+      "reference": "The road I'm on is a single lane single direction, and then becomes a two lanes road: bus and regular.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What type of roads are you driving on?\nassistant\nBased on the image, you are driving on a residential street with a mix of residential and commercial buildings. The road has a sidewalk on both sides, and there are trees and greenery along the sides. The presence of a bus stop and a traffic sign indicating a \"slow\" speed limit suggests that this is a typical urban residential area.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What type of roads are you driving on?\nassistant\nI'm driving on a road with a speed limit of 70 mph. The road is a two-lane road with a center divider and a bike lane on the right side. The bike lane is separated from the main road by a white line. There are also white lines on the road indicating the speed limit for the main road. The road is also marked with a pedestrian crossing and a no entry sign. There are also some trees and buildings on the side of the road. The sky is blue with some clouds. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road is quiet and there are no cars or people on the road. The road",
+      "base_score": 0.1306457668542862,
+      "sft_score": 0.09261839091777802
+    },
+    {
+      "question": "Can you describe the situation of the road up ahead?",
+      "reference": "The road up ahead is clear, with many trees on both sides.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the situation of the road up ahead?\nassistant\nThe road up ahead appears to be a residential street with a mix of parked and moving vehicles. There are several cars visible, including a red car on the left side of the street and a white car on the right side. The street is lined with trees and buildings, suggesting a quiet, suburban area. The road is marked with \"NO STANDING\" signs, indicating that vehicles are not allowed to stop or park there. The overall scene suggests a typical day in a residential neighborhood with a few parked cars and a few moving vehicles.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the situation of the road up ahead?\nassistant\nThe road ahead is a two-way street with a no stopping or standing sign painted on the road. The sign is painted in white and is located on the right side of the road. The road is a residential street with trees on both sides and a few parked cars on the side of the road. The street is lined with buildings on both sides, and there are some trees and bushes along the sidewalk. The sky is clear, and the weather appears to be sunny. The road is quiet and empty, with no traffic or pedestrians in sight. The street is well-maintained and clean, with no visible litter or debris. The road is a two-way street with a no stopping or standing sign painted on the road. The sign is painted in white and is located on the right side of the road. The road is a residential street with trees on both sides and a few parked cars on the side of the road. The street is lined with buildings on both sides, and there are some trees and bushes along the sidewalk. The sky is clear, and the weather appears to be sunny. The road is quiet and empty, with no traffic or pedestrians in sight. The street is well-maintained and clean, with no visible litter or debris. The road is a two-way street with a no stopping or standing sign painted on the road. The sign is painted in white and is located on the right side of the road. The road is a residential street with trees on both sides and a few parked cars on the side of the road. The street is lined with buildings on both sides, and there are some trees and bushes along the sidewalk. The sky is clear, and the weather appears to be sunny. The road is quiet and empty, with no traffic or pedestrians in sight. The street is well-maintained and clean, with no visible litter or debris. The road is a two-way street with a no stopping or standing sign painted on the road. The sign is painted in white and is located on the right side of the road. The road is a residential street with trees on both sides and a few parked cars on the side of the road. The street is lined with buildings on both sides, and there are some trees and bushes along the sidewalk. The sky is clear, and the weather appears to be sunny. The road is quiet and empty, with no traffic or pedestrians in sight. The street is well-maintained and clean, with no visible litter or debris. The road is a two-way street with a no stopping",
+      "base_score": 0.12200433015823364,
+      "sft_score": 0.06417877972126007
+    },
+    {
+      "question": "What is the object separating your lane from the adjacent one?",
+      "reference": "The lanes are separated by a traffic island on my right.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the object separating your lane from the adjacent one?\nassistant\nThe object separating your lane from the adjacent lane is a white line painted on the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the object separating your lane from the adjacent one?\nassistant\nthe object separating my lane from the adjacent lane is a white line on the road. the white line on the road is a lane marking. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road. the lane marking is a white line on the road.",
+      "base_score": 0.04334584251046181,
+      "sft_score": 0.036995526403188705
+    },
+    {
+      "question": "What can you see ahead in the opposite direction?",
+      "reference": "I can observe a light grey car and a white van coming from the opposite direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can you see ahead in the opposite direction?\nassistant\nIn the opposite direction, you can see a car driving on the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can you see ahead in the opposite direction?\nassistant\nI can see a car in the opposite direction. I can also see a person walking on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I can also see a person on the sidewalk. I",
+      "base_score": 0.06381140649318695,
+      "sft_score": 0.035281628370285034
+    },
+    {
+      "question": "Are there any signs or indications written on the road?",
+      "reference": "No, there are no signs or indications written on the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any signs or indications written on the road?\nassistant\nYes, there are signs on the road. The sign reads \"Except for loading,\" which indicates that vehicles are not allowed to park or stop in that area.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any signs or indications written on the road?\nassistant\nThere are no signs or indications written on the road.",
+      "base_score": 0.03944428637623787,
+      "sft_score": 0.08190573006868362
+    },
+    {
+      "question": "Are there any pedestrians on the right sidewalk?",
+      "reference": "No, there are no pedestrians on the right sidewalk.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on the right sidewalk?\nassistant\nNo, there are no pedestrians on the right sidewalk in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on the right sidewalk?\nassistant\nNo, there are no pedestrians on the right sidewalk. The sidewalk is empty and there are no people visible in the image.",
+      "base_score": 0.11733874678611755,
+      "sft_score": 0.19787006080150604
+    },
+    {
+      "question": "Can you see any motorcyclists on the road or in the bike lane?",
+      "reference": "No, there are no motorcyclists on the road or in the bike lane.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any motorcyclists on the road or in the bike lane?\nassistant\nNo, there are no motorcyclists visible in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any motorcyclists on the road or in the bike lane?\nassistant\nNo, there are no motorcyclists on the road or in the bike lane. The image shows a road with a truck and a building, but there are no motorcyclists visible in the scene.",
+      "base_score": 0.06704127043485641,
+      "sft_score": 0.058432891964912415
+    },
+    {
+      "question": "How many SUVs are parked on the right side of the road?",
+      "reference": "There are two small grey SUVs parked on the right side of the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many SUVs are parked on the right side of the road?\nassistant\nThere are two SUVs parked on the right side of the road in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many SUVs are parked on the right side of the road?\nassistant\nThere are two SUVs parked on the right side of the road.",
+      "base_score": 0.1460774540901184,
+      "sft_score": 0.3293249011039734
+    },
+    {
+      "question": "How would you describe the weather currently?",
+      "reference": "The weather is currently sunny.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How would you describe the weather currently?\nassistant\nThe weather appears to be clear and sunny, with a few scattered clouds in the sky. The lighting suggests it is daytime, and the overall atmosphere is bright and pleasant.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How would you describe the weather currently?\nassistant\nThe weather is currently sunny. The sky is blue with some white clouds. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly. The sun is shining brightly",
+      "base_score": 0.13068784773349762,
+      "sft_score": 0.04876884073019028
+    },
+    {
+      "question": "Can you describe the weather conditions?",
+      "reference": "The weather is sunny.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the weather conditions?\nassistant\nThe weather conditions in the image appear to be clear and sunny. The sky is blue with a few scattered clouds, and the sunlight is bright, indicating a pleasant day. There are no visible signs of rain or overcast skies.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the weather conditions?\nassistant\nThe weather conditions in the image are sunny with a blue sky and some clouds. The sky is clear with a few scattered clouds, and the sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day. The clouds are white and fluffy, and the sky is blue with a few scattered clouds. The sunlight is bright, indicating a sunny day",
+      "base_score": 0.17702993750572205,
+      "sft_score": 0.058650773018598557
+    },
+    {
+      "question": "Is there any hazard ahead?",
+      "reference": "There is no immediate hazard ahead, but I should be attentive for any pedestrians who might using the bus stop on my left.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any hazard ahead?\nassistant\nBased on the image, there is no immediate hazard ahead. The white van is traveling on the road, and there are no visible obstacles or potential hazards such as pedestrians, vehicles, or traffic signals in the immediate vicinity. The road appears clear and safe for driving.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any hazard ahead?\nassistant\nThere is no hazard ahead. The road is clear and there are no vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear of any vehicles or pedestrians in the scene. The road is also clear of any obstacles or hazards. The road is also clear",
+      "base_score": 0.08454553037881851,
+      "sft_score": 0.0322430320084095
+    },
+    {
+      "question": "What kind of buildings are on the right?",
+      "reference": "There's a red brick 4-story residential building on the right.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of buildings are on the right?\nassistant\nThe buildings on the right side of the image appear to be multi-story residential buildings. They have a brick facade and multiple windows, typical of urban residential architecture.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of buildings are on the right?\nassistant\nThe buildings on the right are apartment buildings. They are made of brick and have multiple windows. The windows are rectangular and have a white frame. The buildings are located on a street with trees and a sidewalk. The street is lined with trees and there are some parked cars on the side of the street. The sidewalk is made of bricks and there is a white pole on the sidewalk. The pole is tall and has a yellow sign on it. The sign is rectangular and has a white background with black text. The sign is attached to the pole and is visible from the sidewalk. The pole is on the sidewalk and is located on the right side of the street. The street is lined with trees and there are some parked cars on the side of the street. The sidewalk is made of bricks and there is a white pole on the sidewalk. The pole is tall and has a yellow sign on it. The sign is rectangular and has a white background with black text. The sign is attached to the pole and is visible from the sidewalk. The pole is on the sidewalk and is located on the right side of the street. The street is lined with trees and there are some parked cars on the side of the street. The sidewalk is made of bricks and there is a white pole on the sidewalk. The pole is tall and has a yellow sign on it. The sign is rectangular and has a white background with black text. The sign is attached to the pole and is visible from the sidewalk. The pole is on the sidewalk and is located on the right side of the street. The street is lined with trees and there are some parked cars on the side of the street. The sidewalk is made of bricks and there is a white pole on the sidewalk. The pole is tall and has a yellow sign on it. The sign is rectangular and has a white background with black text. The sign is attached to the pole and is visible from the sidewalk. The pole is on the sidewalk and is located on the right side of the street. The street is lined with trees and there are some parked cars on the side of the street. The sidewalk is made of bricks and there is a white pole on the sidewalk. The pole is tall and has a yellow sign on it. The sign is rectangular and has a white background with black text. The sign is attached to the pole and is visible from the sidewalk. The pole is on the sidewalk and is located on the right side of the street. The street is lined with trees and there are some parked cars on the side",
+      "base_score": 0.12909875810146332,
+      "sft_score": 0.08471077680587769
+    },
+    {
+      "question": "Can you describe the road you are on?",
+      "reference": "I am on a T-junction with a yellow boxed intersection.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the road you are on?\nassistant\nThe road in the image appears to be a two-way street with a clear lane for vehicles on the left and a separate lane for pedestrians on the right. The road is marked with white lines and has a few vehicles, including a white van and a car, parked or moving along the side. There are also traffic lights and street signs visible, indicating that this is a regulated intersection. The surrounding area includes buildings with signage for \"The Avi\" and \"Beer Garden,\" suggesting that this is a commercial area with a pub or restaurant nearby. The overall atmosphere appears to be calm and typical of a typical urban street scene.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the road you are on?\nassistant\nThe road in the image is a two-way road with a yellow and blue traffic sign indicating a left turn. The road is divided into lanes with white lines, and there are several vehicles on the road, including a white van and a silver car. The road is surrounded by buildings and trees, and there are traffic lights and street signs visible in the background. The sky is overcast, and the overall atmosphere is calm and quiet. The road is not busy, and there are no pedestrians or cyclists present. The vehicles are parked or moving slowly, and the traffic lights are red, indicating that vehicles should stop. The road is well-maintained, and the markings are clearly visible. The buildings are multi-story, and the trees are tall and green. The overall scene is peaceful and quiet, with no rush or hustle and bustle. The road is a two-way road with a yellow and blue traffic sign indicating a left turn. The road is divided into lanes with white lines, and there are several vehicles on the road, including a white van and a silver car. The road is surrounded by buildings and trees, and there are traffic lights and street signs visible in the background. The sky is overcast, and the overall atmosphere is calm and quiet. The vehicles are parked or moving slowly, and the traffic lights are red, indicating that vehicles should stop. The road is well-maintained, and the markings are clearly visible. The buildings are multi-story, and the trees are tall and green. The overall scene is peaceful and quiet, with no rush or hustle and bustle. The road is a two-way road with a yellow and blue traffic sign indicating a left turn. The road is divided into lanes with white lines, and there are several vehicles on the road, including a white van and a silver car. The road is surrounded by buildings and trees, and there are traffic lights and street signs visible in the background. The sky is overcast, and the overall atmosphere is calm and quiet. The vehicles are parked or moving slowly, and the traffic lights are red, indicating that vehicles should stop. The road is well-maintained, and the markings are clearly visible. The buildings are multi-story, and the trees are tall and green. The overall scene is peaceful and quiet, with no rush or hustle and bustle. The road is a two-way road with a yellow and blue traffic sign indicating a left turn. The road is divided into lanes with white lines, and there are several vehicles on the road, including a white",
+      "base_score": 0.18538503348827362,
+      "sft_score": 0.085350401699543
+    },
+    {
+      "question": "How many pedestrians do you observe?",
+      "reference": "I only observe one pedestrian.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians do you observe?\nassistant\nThere are no pedestrians visible in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians do you observe?\nassistant\nI observe two pedestrians.",
+      "base_score": 0.043202195316553116,
+      "sft_score": 0.043525420129299164
+    },
+    {
+      "question": "Are there any pedestrians crossing the road?",
+      "reference": "No, there are no pedestrians crossing the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians crossing the road?\nassistant\nNo, there are no pedestrians crossing the road in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians crossing the road?\nassistant\nNo, there are no pedestrians crossing the road. The road is empty and there are no pedestrians visible in the image.",
+      "base_score": 0.10637174546718597,
+      "sft_score": 0.15274959802627563
+    },
+    {
+      "question": "What is the weather like?",
+      "reference": "The weather is clear, with blue sky and scattered clouds.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the weather like?\nassistant\nThe weather appears to be clear and sunny, as indicated by the bright sunlight and the shadows cast by the trees and buildings.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the weather like?\nassistant\nThe weather is sunny.",
+      "base_score": 0.13508199155330658,
+      "sft_score": 0.05029639974236488
+    },
+    {
+      "question": "What type of road are you driving on?",
+      "reference": "I am driving on a road with one lane in each direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What type of road are you driving on?\nassistant\nThe road you are driving on appears to be a wet, possibly rainy road. The wet surface and the presence of puddles suggest that it has recently rained.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What type of road are you driving on?\nassistant\nI am driving on a wet road. The road is wet because it has been raining. The wet road is also wet because it has been raining for a while. The wet road is also wet because it has been raining for a long time. The wet road is also wet because it has been raining for a very long time. The wet road is also wet because it has been raining for a very very long time. The wet road is also wet because it has been raining for a very very very long time. The wet road is also wet because it has been raining for a very very very very long time. The wet road is also wet because it has been raining for a very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The wet road is also wet because it has been raining for a very very very very very very very long time. The",
+      "base_score": 0.10914012789726257,
+      "sft_score": 0.03798869997262955
+    },
+    {
+      "question": "How many pedestrians are on the left sidewalk?",
+      "reference": "There are one or two pedestrians on the left sidewalk.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians are on the left sidewalk?\nassistant\nThere are two pedestrians visible on the left sidewalk in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians are on the left sidewalk?\nassistant\nThere are two pedestrians on the left sidewalk. One is a person walking, and the other is a person standing.",
+      "base_score": 0.08286576718091965,
+      "sft_score": 0.07446380704641342
+    },
+    {
+      "question": "Which is the last vehicle in the parked cars?",
+      "reference": "The black car is the last vehicle among the parked cars on the right.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Which is the last vehicle in the parked cars?\nassistant\nThe last vehicle in the parked cars is a gray car.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Which is the last vehicle in the parked cars?\nassistant\nThe last vehicle in the parked cars is a black car.",
+      "base_score": 0.04145735502243042,
+      "sft_score": 0.24561303853988647
+    },
+    {
+      "question": "Are there any parked vehicles you need to be cautious about?",
+      "reference": "No, as there are no vehicles parked on either side of the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any parked vehicles you need to be cautious about?\nassistant\nYes, there are parked vehicles that you should be cautious about. In the image, there are several cars parked along the side of the road, including a black SUV and a white van. It's important to be aware of these parked vehicles and maintain a safe distance from them while driving.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any parked vehicles you need to be cautious about?\nassistant\nYes, there are parked vehicles that you should be cautious about. The parked vehicles are a white car and a silver car, both parked on the side of the road. It is important to be aware of these parked vehicles and maintain a safe distance from them while driving.",
+      "base_score": 0.05205421894788742,
+      "sft_score": 0.06165920943021774
+    },
+    {
+      "question": "Are there any pedestrians crossing the road?",
+      "reference": "No, there are no pedestrians crossing the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians crossing the road?\nassistant\nNo, there are no pedestrians crossing the road in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians crossing the road?\nassistant\nNo, there are no pedestrians crossing the road. The road is empty and there are no pedestrians visible in the image.",
+      "base_score": 0.10637174546718597,
+      "sft_score": 0.15274959802627563
+    },
+    {
+      "question": "Are there any traffic signs?",
+      "reference": "No, there are no traffic signs.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any traffic signs?\nassistant\nYes, there are traffic signs in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any traffic signs?\nassistant\nYes, there are traffic signs. The signs are located on the left side of the image, near the sidewalk. The signs are rectangular and are attached to a pole. The signs are not clearly visible in the image, but they are present in the scene.",
+      "base_score": 0.043100688606500626,
+      "sft_score": 0.04125133901834488
+    },
+    {
+      "question": "Are there any bus stops around you?",
+      "reference": "Yes, I can see a bus stop marked on the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any bus stops around you?\nassistant\nNo, there are no bus stops visible in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any bus stops around you?\nassistant\nNo, there are no bus stops around me.",
+      "base_score": 0.04221457988023758,
+      "sft_score": 0.04190158098936081
+    },
+    {
+      "question": "What kind of van is coming in the opposite direction?",
+      "reference": "A yellow van is coming from the opposite direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of van is coming in the opposite direction?\nassistant\nThe van coming in the opposite direction is a yellow van.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of van is coming in the opposite direction?\nassistant\nThe van in the opposite direction is a yellow van. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is yellow, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans. The van is a Ford Transit van, which is a popular van model used for various commercial purposes. The van is a yellow van, which is a common color for commercial vans",
+      "base_score": 0.4416225552558899,
+      "sft_score": 0.04357961565256119
+    },
+    {
+      "question": "How many pedestrians can you see on the right side and what are they doing?",
+      "reference": "I see many pedestrians on the right side near the shops, all of them are walking in different directions.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians can you see on the right side and what are they doing?\nassistant\nThere are three pedestrians visible on the right side of the image. They appear to be walking or standing on the sidewalk.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians can you see on the right side and what are they doing?\nassistant\nI can see two pedestrians on the right side of the image. They are walking on the sidewalk.",
+      "base_score": 0.03551831096410751,
+      "sft_score": 0.03748808056116104
+    },
+    {
+      "question": "Are there any obstacles in your way?",
+      "reference": "Yes, the parked silver car and the green bike on the left are obstacles.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any obstacles in your way?\nassistant\nBased on the image, there are no visible obstacles in the way of the vehicle. The road appears clear and there are no visible obstructions such as pedestrians, vehicles, or other objects that could obstruct the path of the vehicle.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any obstacles in your way?\nassistant\nThere are no obstacles in the way.",
+      "base_score": 0.04165804386138916,
+      "sft_score": 0.041666045784950256
+    },
+    {
+      "question": "What is the large blue truck ahead of you doing?",
+      "reference": "It is slowly moving.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the large blue truck ahead of you doing?\nassistant\nThe large blue truck ahead of you is parked.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the large blue truck ahead of you doing?\nassistant\nThe large blue truck ahead of the viewer is a trailer truck. It is parked on the side of the road, and there is a blue sign on the back of the truck that reads \"WELCH'S TRANSPORT LTD.\" The sign also contains contact information for the company. The truck appears to be parked in a lot or a designated parking area, and there are other vehicles and buildings in the background. The weather appears to be overcast, and the road is wet from recent rain. The viewer is likely a driver or pedestrian in the foreground, and the truck is the main focus of the image.",
+      "base_score": 0.041958872228860855,
+      "sft_score": 0.09406506270170212
+    },
+    {
+      "question": "How many lanes does this road have?",
+      "reference": "This road has three lanes.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many lanes does this road have?\nassistant\nThe road in the picture appears to have three lanes.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many lanes does this road have?\nassistant\nThis road has two lanes.",
+      "base_score": 0.8489648103713989,
+      "sft_score": 0.04536287486553192
+    },
+    {
+      "question": "Can you see any pedestrians waiting to cross?",
+      "reference": "No, I cannot see any pedestrians waiting to cross.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any pedestrians waiting to cross?\nassistant\nNo, there are no pedestrians waiting to cross the street in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any pedestrians waiting to cross?\nassistant\nNo, I do not see any pedestrians waiting to cross. The image shows a road with a few cars and a few pedestrians in the distance, but there are no pedestrians waiting to cross the road. The focus of the image is on the road and the surrounding buildings, with no pedestrians visible in the foreground.",
+      "base_score": 0.08049607276916504,
+      "sft_score": 0.24453268945217133
+    },
+    {
+      "question": "In the lanes further to the right, what vehicles are coming in the oncoming direction?",
+      "reference": "In the lanes further to my right, there is a white sedan followed by a black van, a black sedan and then a grey sedan driving in the oncoming direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: In the lanes further to the right, what vehicles are coming in the oncoming direction?\nassistant\nIn the lanes further to the right, there are cars coming in the oncoming direction.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: In the lanes further to the right, what vehicles are coming in the oncoming direction?\nassistant\nThe vehicles coming in the oncoming direction are a black van and a black car. The black van is on the left side of the road, and the black car is on the right side of the road. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black car is further away from the oncoming direction. The black van is moving towards the oncoming direction, and the black car is moving away from the oncoming direction. The black van is closer to the oncoming direction, and the black",
+      "base_score": 0.038424838334321976,
+      "sft_score": 0.07939893752336502
+    },
+    {
+      "question": "Are there any sign boards or markings on the road?",
+      "reference": "No, there are no signs or markings on the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any sign boards or markings on the road?\nassistant\nYes, there are markings on the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any sign boards or markings on the road?\nassistant\nYes, there are markings on the road. There are white lines painted on the road, and there is a yellow sign with a blue arrow on it. The sign is placed on the sidewalk, and the arrow on the sign points to the left. There is also a yellow sign with a blue arrow on it placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the sign points to the left. The yellow sign is placed on the sidewalk, and the arrow on the",
+      "base_score": 0.04577841982245445,
+      "sft_score": 0.042569324374198914
+    },
+    {
+      "question": "What is the color of the SUV parked on the left?",
+      "reference": "The SUV is silver.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the color of the SUV parked on the left?\nassistant\nThe color of the SUV parked on the left is silver.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the color of the SUV parked on the left?\nassistant\nThe SUV parked on the left is silver.",
+      "base_score": 0.6210283041000366,
+      "sft_score": 0.668609082698822
+    },
+    {
+      "question": "What can be seen on both sides of the road?",
+      "reference": "There are parks with many trees on both sides of the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can be seen on both sides of the road?\nassistant\nOn both sides of the road, there are trees and vegetation.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can be seen on both sides of the road?\nassistant\non both sides of the road there are trees on the left side and on the right side there are trees and bushes. on the left side there is a fence and a traffic cone on the sidewalk. on the right side there is a fence and a tree. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side there is a tree and a bush. on the right side",
+      "base_score": 0.05543028190732002,
+      "sft_score": 0.039848409593105316
+    },
+    {
+      "question": "What color are the traffic lights?",
+      "reference": "The traffic lights are currently red.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What color are the traffic lights?\nassistant\nThe traffic lights in the image are red.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What color are the traffic lights?\nassistant\nThe traffic lights are red.",
+      "base_score": 0.8707100749015808,
+      "sft_score": 0.8983340263366699
+    },
+    {
+      "question": "Is there any motorcyclist with a leather jacket?",
+      "reference": "No, there are no motorcyclists present.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any motorcyclist with a leather jacket?\nassistant\nNo, there is no motorcyclist with a leather jacket in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any motorcyclist with a leather jacket?\nassistant\nThere is no motorcyclist with a leather jacket in the image.",
+      "base_score": 0.0923982784152031,
+      "sft_score": 0.10135448724031448
+    },
+    {
+      "question": "What are the buildings on the left side of the road like?",
+      "reference": "There is a blue and glass two-story commercial building and a construction site on the left.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What are the buildings on the left side of the road like?\nassistant\nThe buildings on the left side of the road appear to be commercial establishments. They have large glass windows and appear to be shops or offices. The sign \"We Sell Boxes\" suggests that they might be selling boxes or other products.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What are the buildings on the left side of the road like?\nassistant\nThe buildings on the left side of the road are modern and have large glass windows. They appear to be commercial buildings, possibly shops or offices. The glass windows reflect the surrounding buildings and the sky, creating a modern and urban atmosphere. The buildings are tall and have a contemporary design, suggesting they are part of a commercial district or a business area. The presence of the glass windows and the modern design of the buildings indicate a contemporary urban environment.",
+      "base_score": 0.2273838371038437,
+      "sft_score": 0.19171133637428284
+    },
+    {
+      "question": "How many lanes does the road have?",
+      "reference": "The road has one lane in each direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many lanes does the road have?\nassistant\nThe road in the image appears to have two lanes.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many lanes does the road have?\nassistant\nThe road has two lanes. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane on the left is the left lane, and the lane on the right is the right lane. The lane",
+      "base_score": 0.03529035300016403,
+      "sft_score": 0.04732084646821022
+    },
+    {
+      "question": "Can you identify the buildings on your left?",
+      "reference": "I see brick apartment buildings behind many trees.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you identify the buildings on your left?\nassistant\nThe buildings on the left side of the image appear to be residential houses. They have a classic architectural style with multiple stories and large windows. The houses are likely part of a neighborhood or a residential area.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you identify the buildings on your left?\nassistant\nI can see a building on the left side of the image. It is a brick building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The building appears to be residential or a small commercial building. The exact details of the building are not clear from the image, but it is a typical building found in many urban areas. The building is located on the left side of the image, and it is a single-story building with a white roof. The",
+      "base_score": 0.05073779448866844,
+      "sft_score": 0.038486480712890625
+    },
+    {
+      "question": "Can you describe the road you are on?",
+      "reference": "It's a one lane road in each direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the road you are on?\nassistant\nThe road in the image appears to be a residential or commercial street. It is lined with parked cars on both sides, and there is a bus on the road. The street is relatively narrow, and there are trees and buildings on both sides. The presence of parked cars and the bus suggests that it is a busy area, possibly near a shopping center or a commercial district. The overall atmosphere seems to be calm and typical of a typical urban or suburban street.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you describe the road you are on?\nassistant\nThe road in the picture is a two-way street with a red bus parked on the right side. The bus is a standard city bus with a red body and white stripes on the roof. The road is wet, indicating recent rain. There are several cars parked along the side of the road, including a silver car and a red car. The street is lined with trees and buildings on both sides. There is a bus stop on the right side of the road, with a bench and a sign indicating the bus stop. The buildings on the right side have a storage or office building with a pink and yellow facade. The sky is overcast, and the overall atmosphere is calm and quiet. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right side of the road, and there are several cars parked along the side of the road. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right side of the road, and there are several cars parked along the side of the road. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right side of the road, and there are several cars parked along the side of the road. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right side of the road, and there are several cars parked along the side of the road. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right side of the road, and there are several cars parked along the side of the road. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right side of the road, and there are several cars parked along the side of the road. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right side of the road, and there are several cars parked along the side of the road. The road is wet, indicating recent rain, and the trees and buildings on both sides are lined up along the road. The bus is parked on the right",
+      "base_score": 0.12415436655282974,
+      "sft_score": 0.08262211829423904
+    },
+    {
+      "question": "Is there a cycle lane on the road?",
+      "reference": "No, there isn't a cycle lane on the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there a cycle lane on the road?\nassistant\nNo, there is no cycle lane on the road in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there a cycle lane on the road?\nassistant\nYes, there is a cycle lane on the road. The lane is marked with white lines and is located on the left side of the road. The lane is used by cyclists and other road users who need to cycle on the left side of the road. The lane is visible in the image and is clearly marked with white lines.",
+      "base_score": 0.07448326796293259,
+      "sft_score": 0.04643214866518974
+    },
+    {
+      "question": "How many pedestrians are present on the right sidewalk?",
+      "reference": "There are a few people walking on the right sidewalk.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians are present on the right sidewalk?\nassistant\nThere are two pedestrians visible on the right sidewalk in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many pedestrians are present on the right sidewalk?\nassistant\nThere are two pedestrians on the right sidewalk.",
+      "base_score": 0.040191326290369034,
+      "sft_score": 0.03848397359251976
+    },
+    {
+      "question": "What certain traffic sign can you observe?",
+      "reference": "I can observe a traffic sign that indicates no right turn under the traffic light.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What certain traffic sign can you observe?\nassistant\nIn the image, you can observe a traffic sign that indicates a bicycle lane. This sign is typically used to designate a specific area of the road where cyclists are allowed to travel.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What certain traffic sign can you observe?\nassistant\nI can see a certain traffic sign that says \"No left turn\" on the right side of the road. This sign is placed on a pole and is visible from the perspective of the driver. The sign is red and white, with the words \"No left turn\" written in white on a red background. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and the sign is placed on the left side of the road. The sign is placed on a pole that is visible from the perspective of the driver. The pole is located on the right side of the road, and",
+      "base_score": 0.03720787540078163,
+      "sft_score": 0.04986041411757469
+    },
+    {
+      "question": "Are there any traffic lights?",
+      "reference": "No, there are no traffic lights.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any traffic lights?\nassistant\nNo, there are no traffic lights visible in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any traffic lights?\nassistant\nNo, there are no traffic lights in the image.",
+      "base_score": 0.12507137656211853,
+      "sft_score": 0.14349009096622467
+    },
+    {
+      "question": "Can you see any vehicles near the park on your left?",
+      "reference": "No, there are no vehicles near the park on my left.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any vehicles near the park on your left?\nassistant\nYes, there are vehicles near the park on the left side of the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Can you see any vehicles near the park on your left?\nassistant\nNo, I do not see any vehicles near the park on my left. The image shows a road with a black car in the middle of the road, and there are no other vehicles or park visible in the image. The road is surrounded by trees and a fence, and there are no visible vehicles or park in the image.",
+      "base_score": 0.043980974704027176,
+      "sft_score": 0.05344833806157112
+    },
+    {
+      "question": "Is it safe for you to overtake the bus on the left?",
+      "reference": "Assuming I checked my mirrors and blind spots, it should be safe because there was no traffic in the adjacent lanes or ahead of me.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is it safe for you to overtake the bus on the left?\nassistant\nBased on the image, it is not safe for you to overtake the bus on the left. The bus is in the bus lane, which is a designated area for buses and other public transportation vehicles. The bus lane is separated from the main road by a solid white line. Additionally, the bus is moving in the same direction as the car you are in, which means it is not in your lane. It is important to be cautious and follow traffic rules to ensure your safety and the safety of others on the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is it safe for you to overtake the bus on the left?\nassistant\nNo, it is not safe for you to overtake the bus on the left. The bus is in the bus lane, which is a designated area for buses and other vehicles that need to be stopped at red lights. The bus lane is separated from the rest of the road by a white line. The bus lane is not a lane for other vehicles to overtake, and it is not safe to overtake the bus in this lane. It is important to follow traffic rules and stay in the designated lanes to ensure the safety of all road users.",
+      "base_score": 0.08300915360450745,
+      "sft_score": 0.21597141027450562
+    },
+    {
+      "question": "Are there any pedestrians on your left?",
+      "reference": "Yes, there is one pedestrian on my left wearing black.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on your left?\nassistant\nYes, there are pedestrians on the left side of the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on your left?\nassistant\nNo, there are no pedestrians on the left. The left side of the image shows a sidewalk with a few pedestrians, but they are not visible in the frame. The focus of the image is on the road and the vehicles, not pedestrians.",
+      "base_score": 0.037283096462488174,
+      "sft_score": 0.047627825289964676
+    },
+    {
+      "question": "What was the black sedan initially doing and what is it doing now?",
+      "reference": "The black sedan was initially stationary, but it's now accelerating from a stop.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What was the black sedan initially doing and what is it doing now?\nassistant\nThe black sedan was initially stopped at a construction zone, as indicated by the traffic cones and signs on the side of the road. It is now moving forward, following the traffic flow.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What was the black sedan initially doing and what is it doing now?\nassistant\nThe black sedan was initially stopped at a construction zone, as indicated by the construction signs and cones. It is now moving forward, following the construction zone.",
+      "base_score": 0.19926795363426208,
+      "sft_score": 0.20368525385856628
+    },
+    {
+      "question": "Are there any pedestrians on the left, right, or crossing the road?",
+      "reference": "No, there are no pedestrians on either sidewalk or crossing the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on the left, right, or crossing the road?\nassistant\nThere are no pedestrians visible in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians on the left, right, or crossing the road?\nassistant\nThere are no pedestrians on the left, right, or crossing the road. The image shows a road with a white van parked on the side, a bicycle lane, and a fence on the left side of the road. There are no pedestrians visible in the image.",
+      "base_score": 0.09670679271221161,
+      "sft_score": 0.08874647319316864
+    },
+    {
+      "question": "Are there any pedestrians crossing the road?",
+      "reference": "No, there are no pedestrians crossing the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians crossing the road?\nassistant\nYes, there are pedestrians crossing the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any pedestrians crossing the road?\nassistant\nYes, there are pedestrians crossing the road. There are two people visible in the image, one walking and one pushing a stroller. The pedestrian on the left is wearing a blue dress and a white top, while the pedestrian on the right is wearing a white t-shirt and blue jeans. The stroller is being pushed by the pedestrian on the right.",
+      "base_score": 0.04663001373410225,
+      "sft_score": 0.05710172653198242
+    },
+    {
+      "question": "Why are you slowing down?",
+      "reference": "I am slowing down because there is a pedestrian crossing the zebra crossing ahead.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Why are you slowing down?\nassistant\nThe reason for slowing down in this scene is likely due to the presence of a pedestrian crossing the street. The pedestrian is crossing the road, which requires the driver to be cautious and slow down to ensure the pedestrian's safety.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Why are you slowing down?\nassistant\nI am slowing down because I am in a car and I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in a bus because I am not in a bus. I am not in",
+      "base_score": 0.3393975496292114,
+      "sft_score": 0.03823356330394745
+    },
+    {
+      "question": "What can you observe about the buildings on your left?",
+      "reference": "There is a three-story red brick building with a shop and a side road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can you observe about the buildings on your left?\nassistant\nThe buildings on the left side of the image appear to be multi-story structures made of brick. They have a uniform design with a series of windows and a flat roof. The buildings seem to be part of a residential or commercial area, given their architectural style and the presence of trees in the background.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What can you observe about the buildings on your left?\nassistant\nI can observe that the buildings on the left side of the image are made of brick and have a variety of windows. The windows are of different sizes and shapes, and some of them are closed. The buildings appear to be residential or mixed-use buildings, with some having balconies and others having windows with railings. The overall appearance of the buildings suggests a typical urban setting with a mix of residential and commercial buildings.",
+      "base_score": 0.05724037438631058,
+      "sft_score": 0.06492269784212112
+    },
+    {
+      "question": "Are there any parked cars not in motion on the sides of the road?",
+      "reference": "No, there are no vehicles parked on either side of the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any parked cars not in motion on the sides of the road?\nassistant\nYes, there are parked cars not in motion on the sides of the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any parked cars not in motion on the sides of the road?\nassistant\nYes, there are parked cars not in motion on the sides of the road. There is a black car parked on the left side of the road and a white car parked on the right side of the road. There is also a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on the right side of the road. There is a black car parked on the left side of the road. There is a white car parked on",
+      "base_score": 0.04345487430691719,
+      "sft_score": 0.03666124865412712
+    },
+    {
+      "question": "What position are the pedestrians at the bus stop in relation to your vehicle?",
+      "reference": "The pedestrians at the bus stop are on the right sidewalk.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What position are the pedestrians at the bus stop in relation to your vehicle?\nassistant\nThe pedestrians at the bus stop are standing, facing the direction of the bus.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What position are the pedestrians at the bus stop in relation to your vehicle?\nassistant\nThe pedestrians are at the bus stop in the opposite direction of the vehicle's movement. They are standing on the sidewalk, facing the opposite direction of the vehicle's movement. The vehicle is moving in the direction of the pedestrians, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in the same direction. The pedestrians are not in the same direction as the vehicle, so they are not in",
+      "base_score": 0.040354080498218536,
+      "sft_score": 0.05721975117921829
+    },
+    {
+      "question": "What is the color of the vehicle you are following?",
+      "reference": "The vehicle I am following, which is a black cab, is black.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the color of the vehicle you are following?\nassistant\nThe color of the vehicle you are following is black.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the color of the vehicle you are following?\nassistant\nThe vehicle you are following is a black car.",
+      "base_score": 0.09653226286172867,
+      "sft_score": 0.16077758371829987
+    },
+    {
+      "question": "Are there any traffic signs visible to you?",
+      "reference": "No, I cannot see any traffic signs.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any traffic signs visible to you?\nassistant\nNo, there are no traffic signs visible in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any traffic signs visible to you?\nassistant\nNo, there are no traffic signs visible to me.",
+      "base_score": 0.08063868433237076,
+      "sft_score": 0.13995079696178436
+    },
+    {
+      "question": "Are there any vehicles parked on the left of the road?",
+      "reference": "No, there are no vehicles parked on the left of the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any vehicles parked on the left of the road?\nassistant\nYes, there are vehicles parked on the left side of the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any vehicles parked on the left of the road?\nassistant\nNo, there are no vehicles parked on the left of the road. The left side of the road is empty, and there is a parked bicycle on the left side of the road.",
+      "base_score": 0.04782169312238693,
+      "sft_score": 0.07244443148374557
+    },
+    {
+      "question": "Which traffic lights can you observe?",
+      "reference": "I can observe a red light, a red and amber light, and a green light.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Which traffic lights can you observe?\nassistant\nIn the image, you can observe two traffic lights. One is located on the left side of the road, and the other is on the right side of the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Which traffic lights can you observe?\nassistant\nI can observe two traffic lights. One is a red traffic light, and the other is a yellow traffic light. The red traffic light is located on the left side of the road, and the yellow traffic light is located on the right side of the road. The red traffic light is closer to the left side of the road, and the yellow traffic light is closer to the right side of the road. The red traffic light is larger than the yellow traffic light. The red traffic light is a round shape, and the yellow traffic light is a square shape. The red traffic light is on the left side of the road, and the yellow traffic light is on the right side of the road. The red traffic light is closer to the left side of the road, and the yellow traffic light is closer to the right side of the road. The red traffic light is larger than the yellow traffic light. The red traffic light is on the left side of the road, and the yellow traffic light is on the right side of the road. The red traffic light is closer to the left side of the road, and the yellow traffic light is closer to the right side of the road. The red traffic light is larger than the yellow traffic light. The red traffic light is on the left side of the road, and the yellow traffic light is on the right side of the road. The red traffic light is closer to the left side of the road, and the yellow traffic light is closer to the right side of the road. The red traffic light is larger than the yellow traffic light. The red traffic light is on the left side of the road, and the yellow traffic light is on the right side of the road. The red traffic light is closer to the left side of the road, and the yellow traffic light is closer to the right side of the road. The red traffic light is larger than the yellow traffic light. The red traffic light is on the left side of the road, and the yellow traffic light is on the right side of the road. The red traffic light is closer to the left side of the road, and the yellow traffic light is closer to the right side of the road. The red traffic light is larger than the yellow traffic light. The red traffic light is on the left side of the road, and the yellow traffic light is on the right side of the road. The red traffic light is closer to the left side of the road, and the yellow traffic light is closer to the right side of the road. The red traffic light",
+      "base_score": 0.03567532077431679,
+      "sft_score": 0.04464803263545036
+    },
+    {
+      "question": "Are there any parked vehicles on the left side of the road?",
+      "reference": "No, there are no vehicles parked on the left side of this road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any parked vehicles on the left side of the road?\nassistant\nYes, there are parked vehicles on the left side of the road.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Are there any parked vehicles on the left side of the road?\nassistant\nYes, there are parked vehicles on the left side of the road. There is a black car parked on the left side of the road, and a white car parked on the left side of the road. There is also a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the left side of the road. There is a black car parked on the",
+      "base_score": 0.048922669142484665,
+      "sft_score": 0.03572111949324608
+    },
+    {
+      "question": "Is there a dedicated cycle lane?",
+      "reference": "No, there is no cycle lane.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there a dedicated cycle lane?\nassistant\nNo, there is no dedicated cycle lane in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there a dedicated cycle lane?\nassistant\nNo, there is no dedicated cycle lane. The lane is for vehicles only.",
+      "base_score": 0.08858494460582733,
+      "sft_score": 0.05330831930041313
+    },
+    {
+      "question": "How are pedestrians impacting your driving?",
+      "reference": "I need to be cautious of j-walking, especially as the traffic light is green but traffic has stopped.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How are pedestrians impacting your driving?\nassistant\nPedestrians are impacting your driving by occupying the sidewalks and crossing the street. They are walking on the sidewalk, which can cause delays and reduce your visibility. Additionally, they may be crossing the street, which requires you to be cautious and stop if necessary.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How are pedestrians impacting your driving?\nassistant\nThe pedestrians are impacting the driver's ability to see and react to the traffic. The pedestrian is walking in the crosswalk, which is a designated area for pedestrians to cross the street. The pedestrian's presence in the crosswalk can cause the driver to slow down or stop, as the pedestrian may not be able to see the driver's vehicle in time to react. Additionally, the pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the driver's vehicle in time to react to the pedestrian's movements. The pedestrian's presence in the crosswalk can also cause the driver to be cautious of the pedestrian's movements, as the pedestrian may not be able to see the",
+      "base_score": 0.2286619246006012,
+      "sft_score": 0.05905649811029434
+    },
+    {
+      "question": "What kind of buildings do you see on your right?",
+      "reference": "There is a steel fence surrounding a large commercial building with a glass roof on my right.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of buildings do you see on your right?\nassistant\nOn your right, you can see a large, modern building with a glass dome structure. This building appears to be part of a train station or a similar transportation hub. The dome is a distinctive feature that suggests it is designed to blend seamlessly with the urban environment.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What kind of buildings do you see on your right?\nassistant\nI see a building on the right side of the image. It is a large, multi-story building with a glass facade and a curved roof. The building appears to be a commercial or office building, possibly a shopping center or a hotel. The glass facade suggests that it might have retail spaces or offices within. The curved roof adds an architectural element that is characteristic of modern design. The building is situated on a street corner, and there are other buildings and vehicles in the background.",
+      "base_score": 0.1339177042245865,
+      "sft_score": 0.2265593260526657
+    },
+    {
+      "question": "What color is the van in the opposite lane?",
+      "reference": "The van in the opposite lane is white.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What color is the van in the opposite lane?\nassistant\nThe van in the opposite lane is white.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What color is the van in the opposite lane?\nassistant\nThe van in the opposite lane is white.",
+      "base_score": 0.5120605230331421,
+      "sft_score": 0.5120605230331421
+    },
+    {
+      "question": "What color is the building to your immediate left?",
+      "reference": "The building to my immediate left is red.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What color is the building to your immediate left?\nassistant\nThe building to your immediate left is red.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What color is the building to your immediate left?\nassistant\nred brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is a red brick building to my immediate left is",
+      "base_score": 0.541612982749939,
+      "sft_score": 0.03361548110842705
+    },
+    {
+      "question": "What is the status of the traffic light for going right?",
+      "reference": "The light for going right is red.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the status of the traffic light for going right?\nassistant\nThe traffic light for going right is red.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What is the status of the traffic light for going right?\nassistant\nThe traffic light for going right is red.",
+      "base_score": 0.25167781114578247,
+      "sft_score": 0.25167781114578247
+    },
+    {
+      "question": "Is there any obstacle in your way that may affect your current action?",
+      "reference": "There are no obstacles impeding my current action, the road to the right is clear for overtaking.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any obstacle in your way that may affect your current action?\nassistant\nThere are no visible obstacles in the image that may affect the current action of the driver. The road appears clear and the driver is positioned to continue their journey without any immediate concerns.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any obstacle in your way that may affect your current action?\nassistant\nThere is no obstacle in my way that may affect my current action.",
+      "base_score": 0.06873443722724915,
+      "sft_score": 0.038286492228507996
+    },
+    {
+      "question": "Is there any pedestrian crossing the road?",
+      "reference": "No, there are no pedestrians crossing the road.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any pedestrian crossing the road?\nassistant\nNo, there is no pedestrian crossing the road in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: Is there any pedestrian crossing the road?\nassistant\nThere is no pedestrian crossing the road in the image. The road is empty and there are no pedestrians visible.",
+      "base_score": 0.1109047383069992,
+      "sft_score": 0.19251194596290588
+    },
+    {
+      "question": "What vehicle is directly in front of you?",
+      "reference": "I am following a dark green sedan.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What vehicle is directly in front of you?\nassistant\nThe vehicle directly in front of you is a black car.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: What vehicle is directly in front of you?\nassistant\nThe vehicle directly in front of you is a black car.",
+      "base_score": 0.034504521638154984,
+      "sft_score": 0.034504521638154984
+    },
+    {
+      "question": "How many cars are there on the left side of the road?",
+      "reference": "There is one blue car that I can see on the left side followed by a row of other parked cars.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many cars are there on the left side of the road?\nassistant\nThere are two cars on the left side of the road in the image.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many cars are there on the left side of the road?\nassistant\nThere are two cars on the left side of the road.",
+      "base_score": 0.035647712647914886,
+      "sft_score": 0.033560242503881454
+    },
+    {
+      "question": "How many lanes are there on the road you are driving on?",
+      "reference": "There are two lanes on the road, one in each direction.",
+      "base_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many lanes are there on the road you are driving on?\nassistant\nThere are two lanes on the road you are driving on.",
+      "sft_answer": "system\nYou are a helpful assistant.\nuser\nPlease answer the question about this scene: How many lanes are there on the road you are driving on?\nassistant\nThere are two lanes on the road the person is driving on. The lane markings are visible on the road, and the person is driving on the left lane. The road is wet, and there are no visible lane markings on the right lane. The person is driving on the left lane, and the lane markings are visible on the road. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the road, and the person is driving on the left lane. The lane markings are visible on the",
+      "base_score": 0.5010462999343872,
+      "sft_score": 0.040590882301330566
+    }
+  ]
+}

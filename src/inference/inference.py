@@ -1,5 +1,6 @@
 import os
 import torch
+import pandas as pd
 from PIL import Image
 from transformers import AutoProcessor, Qwen2VLForConditionalGeneration
 from peft import PeftModel, PeftConfig
@@ -58,7 +59,7 @@ def generate_answer(image_path, question):
     with torch.no_grad():
         outputs = model.generate(
             **inputs,
-            max_new_tokens=512,
+            max_new_tokens=256,
             do_sample=True,
             temperature=0.7,
             top_p=0.9,
@@ -76,14 +77,59 @@ def generate_answer(image_path, question):
 
 # 示例使用
 if __name__ == "__main__":
-    # 使用找到的实际图像路径
-    test_image_path = "/cloud/data/scenery/images/train/1cff1954a28837441e7376a1a168186e/0.jpg"
-    test_question = "What can you see in this image?"
+    # 从parquet文件加载数据
+    print("正在加载数据集...")
+    try:
+        df = pd.read_parquet("/cloud/data/scenery/train.parquet")
+        print(f"成功加载数据集，共有{len(df)}条记录")
+    except Exception as e:
+        print(f"加载数据集时出错: {str(e)}")
+        # 尝试使用备用路径
+        try:
+            df = pd.read_parquet("/cloud/scenery/train.parquet")
+            print(f"成功从备用路径加载数据集，共有{len(df)}条记录")
+        except Exception as e2:
+            print(f"从备用路径加载数据集时出错: {str(e2)}")
+            exit(1)
     
-    if os.path.exists(test_image_path):
-        answer = generate_answer(test_image_path, test_question)
-        print(f"Question: {test_question}")
-        print(f"Answer: {answer}")
-    else:
-        print(f"Test image not found: {test_image_path}")
-        print("Please update the test_image_path with a valid image path.") 
+    # 选择几个样本进行测试
+    # 随机选择5个不同的segment_id
+    test_segments = df['segment_id'].sample(5).tolist()
+    print(f"选择的测试segment_id: {test_segments}")
+    
+    # 对每个segment进行测试
+    for segment_id in test_segments:
+        # 获取该segment的问题和答案
+        segment_data = df[df['segment_id'] == segment_id].iloc[0]
+        question = segment_data.get('question', "What can you see in this image?")
+        ground_truth = segment_data.get('answer', "No answer provided in dataset")
+        
+        print(f"\n{'='*50}")
+        print(f"测试Segment ID: {segment_id}")
+        print(f"问题: {question}")
+        print(f"参考答案: {ground_truth}")
+        print(f"{'='*50}")
+        
+        # 获取该segment下的所有图片
+        base_image_path = f"/cloud/data/scenery/images/train/{segment_id}"
+        if not os.path.exists(base_image_path):
+            base_image_path = f"/cloud/scenery/images/train/{segment_id}"
+            if not os.path.exists(base_image_path):
+                print(f"图像路径不存在: {base_image_path}")
+                continue
+        
+        # 获取该文件夹下的所有jpg图片
+        image_files = [f for f in os.listdir(base_image_path) if f.endswith('.jpg')]
+        
+        for img_file in image_files:
+            img_path = os.path.join(base_image_path, img_file)
+            print(f"\n--- 图像: {img_path} ---")
+            
+            try:
+                # 获取模型推理结果
+                model_answer = generate_answer(img_path, question)
+                print(f"模型回答: {model_answer}")
+            except Exception as e:
+                print(f"处理图像时出错: {str(e)}")
+    
+    print("\n推理完成!") 
